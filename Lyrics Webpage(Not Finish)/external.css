@@ -1,0 +1,98 @@
+#foreverwecanmakeit {
+    font-size:22; 
+    font-family: Courier;
+    text-align: center; 
+    float: left; 
+    margin-left: 70;
+    margin-top: -5;
+    background-color: transparent;
+
+    /*overflow: scroll;*/
+}
+
+#sugarsong {
+    font-size:20; 
+    font-family: Courier;
+    text-align: center; 
+    float: left; 
+    margin-left: 10;
+    margin-top: -5;
+    background-color: transparent;
+    /*overflow-y: scroll;
+    overflow-x: hidden;*/
+}
+
+
+
+
+
+a:link a:visited {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	background-color: transparent;
+	text-decoration: underline;
+}
+a:active {
+	color: green;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+
+
+
+
+
+#Mainlink {
+    text-decoration: none;
+}
+
+
+
+
+
+/*border*/
+#ClickableOptions {
+    background-color: none;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-left: none;
+    border-right: none;
+    background-image: linear-gradient(rgb(252, 221, 181), white);
+}
+
+/*Margin/padding*/
+#ClickableOptions {
+    margin-left: 39px;
+    margin-right: 1014px;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*Text*/
+#ClickableOptions {
+    font-size: 20px;
+    font-family: Tahoma;
+    text-align: left;
+}
+
+
+
+
+
+/*Background*/
+body {
+	background-image: url("backgroundphoto.png");
+    background-color: pink;
+	background-position:center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
